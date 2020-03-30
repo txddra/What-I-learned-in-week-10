@@ -10,10 +10,7 @@
    - Filter
 - `CSS Framework`
   - Bootstap
-  - flexbox
-  - CSS grid
-  
-- `HTML DOM Manipulation`
+ 
   
 - `and so much moooore`
 ---
@@ -27,6 +24,7 @@
     - _resolution_
  - It uses the  `@media` rule to include a block of CSS properties only if a certain condition is true.
 
+![](https://seopressor.com/wp-content/uploads/2015/08/Responsive-design-CSS-Media-Queries1.png)
 
 ## JavaScript Array Methods:
  ### **Map** : 
@@ -37,19 +35,16 @@
 
   ### **Filter** :
   - The `filter()` method takes each element in an array and it applies a **_conditional_** statement against it. If this conditional returns **true**, the element gets **pushed** to the output array, if false, it doesn't.
-  - The syntax for filter is similar to map, except the callback function should return true to keep the element, or false otherwise. In the callback, only the element is required. 
+  
+  - The syntax for `filter` is similar to `map`, except the callback function should return true to keep the element, or false otherwise. In the callback, only the element is required. 
   
   ![](https://miro.medium.com/max/2132/1*9xZcxV7uEzOT05aci4isYA.png)
 
-## CSS Framework :
+## CSS Framework : 
 
-### **Flexbox** :
-
-### **CSS Grid** :
-
-A shorthand for setting grid-template-rows, grid-template-columns, and grid-template-areas in a single declaration.
+### **BootStrap** :
+- **Bootstrap** is the most popular CSS Framework for developing responsive and mobile-first websites.
 
 
 
-## Hmtl DOM Manipulation:
 
